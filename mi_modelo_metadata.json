@@ -1,0 +1,20 @@
+{
+  "trained_date": "2025-12-04T08:20:24.082908",
+  "contamination": 0.1,
+  "num_features": 13,
+  "features": [
+    "Generación total",
+    "Consumo total",
+    "Autoconsumo",
+    "Energía suministrada a la red",
+    "Energía obtenida de la red",
+    "Ratio_Generacion_Consumo",
+    "Diferencia_Generacion_Consumo",
+    "Eficiencia_Autoconsumo",
+    "Balance_Red",
+    "Dia",
+    "Mes",
+    "DiaSemana",
+    "EsFinSemana"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "22_10_NEUROCIENCIAS_01012023-01012024": {
+    "file": "22_10_NEUROCIENCIAS_01012023-01012024.csv",
+    "records": 366,
+    "mean_generation": 14432.067793715847,
+    "mean_consumption": 42609.62243852459,
+    "std_generation": 8301.72924714893,
+    "std_consumption": 20125.70814084355
+  },
+  "22_10_NEUROCIENCIAS_01012024-01012025": {
+    "file": "22_10_NEUROCIENCIAS_01012024-01012025.csv",
+    "records": 367,
+    "mean_generation": 14260.464020163487,
+    "mean_consumption": 45825.09617275205,
+    "std_generation": 8338.646499365897,
+    "std_consumption": 21966.90284794105
+  },
+  "22_10_NEUROCIENCIAS_01012025-01122025": {
+    "file": "22_10_NEUROCIENCIAS_01012025-01122025.csv",
+    "records": 333,
+    "mean_generation": 24260.67443423423,
+    "mean_consumption": 51050.89965945946,
+    "std_generation": 17926.59598878126,
+    "std_consumption": 23180.7882127818
+  },
+  "23_04_BIOPETROL_BEREA_01012025-01122025": {
+    "file": "23_04_BIOPETROL_BEREA_01012025-01122025.csv",
+    "records": 335,
+    "mean_generation": 128955.26462179102,
+    "mean_consumption": 395535.7183537313,
+    "std_generation": 62158.550668462725,
+    "std_consumption": 114162.21192837665
+  },
+  "23_04_Rod_Peel_01012023-01012024": {
+    "file": "23_04_Rod_Peel_01012023-01012024.csv",
+    "records": 253,
+    "mean_generation": 29756.262132411066,
+    "mean_consumption": 51992.26608418972,
+    "std_generation": 11420.164808853759,
+    "std_consumption": 11372.842782162024
+  },
+  "23_04_Rod_Peel_01012024-01012025": {
+    "file": "23_04_Rod_Peel_01012024-01012025.csv",
+    "records": 367,
+    "mean_generation": 31177.687260762945,
+    "mean_consumption": 50564.01968555859,
+    "std_generation": 13519.05220594557,
+    "std_consumption": 10553.797793223668
+  },
+  "23_04_Rod_Peel_01012025-01122025": {
+    "file": "23_04_Rod_Peel_01012025-01122025.csv",
+    "records": 331,
+    "mean_generation": 37028.464728398794,
+    "mean_consumption": 44225.45566525679,
+    "std_generation": 13280.160683619793,
+    "std_consumption": 10503.798900944152
+  },
+  "23_04_SHOPPING_BOLIVAR_214_01012023-01012024": {
+    "file": "23_04_SHOPPING_BOLIVAR_214_01012023-01012024.csv",
+    "records": 122,
+    "mean_generation": 56939.335380327866,
+    "mean_consumption": 251152.24076393445,
+    "std_generation": 27034.738977302724,
+    "std_consumption": 111813.68149020498
+  },
+  "23_06_UNION_AGRONEGOCIOS_01012025-01122025": {
+    "file": "23_06_UNION_AGRONEGOCIOS_01012025-01122025.csv",
+    "records": 335,
+    "mean_generation": 215256.64746537316,
+    "mean_consumption": 813747.4713462685,
+    "std_generation": 76430.63460705306,
+    "std_consumption": 225970.69384888344
+  },
+  "23_12_BANCO_ECONOMICO_MUTUALISTA_01012023-01012024": {
+    "file": "23_12_BANCO_ECONOMICO_MUTUALISTA_01012023-01012024.csv",
+    "records": 20,
+    "mean_generation": 33435.94068,
+    "mean_consumption": 243855.26627000002,
+    "std_generation": 11555.644992199028,
+    "std_consumption": 110529.44555920185
+  },
+  "23_12_BANCO_ECONOMICO_MUTUALISTA_01012024-01012025": {
+    "file": "23_12_BANCO_ECONOMICO_MUTUALISTA_01012024-01012025.csv",
+    "records": 367,
+    "mean_generation": 30831.21106376022,
+    "mean_consumption": 232379.18109100818,
+    "std_generation": 11232.898961547335,
+    "std_consumption": 85435.95620281457
+  },
+  "25_08_MULTICENTER_01012025-01122025": {
+    "file": "25_08_MULTICENTER_01012025-01122025.csv",
+    "records": 113,
+    "mean_generation": 1259044.5109097345,
+    "mean_consumption": 1494723.5374584075,
+    "std_generation": 558695.4784091301,
+    "std_consumption": 314957.969945001
+  },
+  "EDUARDO_LOZADA_01012023-01012024": {
+    "file": "EDUARDO_LOZADA_01012023-01012024.csv",
+    "records": 257,
+    "mean_generation": 36477.19728599222,
+    "mean_consumption": 91888.11411556418,
+    "std_generation": 14858.690097529929,
+    "std_consumption": 55678.00039742897
+  },
+  "EDUARDO_LOZADA_01012024-01012025": {
+    "file": "EDUARDO_LOZADA_01012024-01012025.csv",
+    "records": 367,
+    "mean_generation": 39429.142079836514,
+    "mean_consumption": 94714.90229782015,
+    "std_generation": 15709.605068247374,
+    "std_consumption": 35606.64694846841
+  },
+  "EDUARDO_LOZADA_01012025-01122025": {
+    "file": "EDUARDO_LOZADA_01012025-01122025.csv",
+    "records": 335,
+    "mean_generation": 37545.55026985074,
+    "mean_consumption": 76681.66370179105,
+    "std_generation": 14333.809962368063,
+    "std_consumption": 29618.216405749776
+  }
+}
